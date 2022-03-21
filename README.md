@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XATUCSJY
 - 👀 I’m interested in AI,DEEP LEARNING,REINFORCEMENT LEARNING.
 - 🌱 I’m currently learning REINFORCEMENT LEARNING
-- 💞️ I am now studying in Xi’an Technological University.
+- 💞️ I'm studying in Xi’an Technological University now.
 - 📫 How to reach me by:jiyu@st.xatu.edu.cn
 
 <!---
